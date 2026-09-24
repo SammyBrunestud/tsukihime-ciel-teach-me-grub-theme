@@ -8,3 +8,4 @@ so i asked grok to help me out, grok provide me with the base template in "theme
 
 the backgrond was was done in gimp by taking the sprite for the tsukihime remake and just editing onto a background cg also taken from the tsukihime remake, the font is Djb Chalk It Up Font
 
+please don't hate this was just my first ever project and it was just for fun if i ever make more i'll try to do so without ai
